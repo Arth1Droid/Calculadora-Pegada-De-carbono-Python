@@ -5,7 +5,7 @@ totalDePontos = 0
 while (resposta == "NÃO"):
     print("---------------CALCULADORA DE PEGADA ECOLÓGICA---------------")
     resposta = input("Quer descobrir o quanto suas ações impactam o meio ambiente ? \n(SIM ou NÃO):").upper()
-    print("Entendido, te esperamos aqui ;)")
+    print("Entendido, te esperamos aqui  ;)")
 
 if (resposta =="SIM"):
     print("Ótimo !!\nAgora basta responder as perguntas abaixo. Elas são divididas por categorias ! :)")
