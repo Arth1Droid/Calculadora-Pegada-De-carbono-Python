@@ -1,4 +1,4 @@
-# Calculadora De Pegada de Carbono
+# Calculadora De Pegada de Ecológica 
 
 Este pequeno algoritmo simula uma calculadora de pegada de carbono, permitindo ao usuário estimar o impacto ambiental de suas ações diárias. A partir de informações simples como consumo de energia elétrica, uso de transporte, alimentação e resíduos gerados, o programa aplica fórmulas básicas para calcular a quantidade aproximada de CO₂ emitida. A calculadora tem como objetivo conscientizar o usuário sobre seus hábitos e incentivar escolhas mais sustentáveis, mostrando como pequenas mudanças podem reduzir significativamente sua contribuição para as emissões de gases do efeito estufa.
 
